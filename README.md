@@ -70,7 +70,3 @@ Manter a equipe de TI sempre informada e alinhada, promovendo a transparência, 
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Fique à vontade para abrir issues ou enviar pull requests com melhorias, correções ou sugestões.
-
-## 📄 Licença
-
-MIT
