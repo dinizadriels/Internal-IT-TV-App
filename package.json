@@ -1,0 +1,21 @@
+{
+  "name": "tv-corporativa-next",
+  "version": "1.0.0",
+  "description": "Aplicação de TV Corporativa com Next.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "tv corporativa",
+    "next.js",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "next": "^15.3.3"
+  }
+}
